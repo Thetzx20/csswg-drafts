@@ -78,7 +78,7 @@ spec:css-borders-4;
 	type: property; text:border-left-width;
 	type: property; text:border-top-width;
 spec:css-sizing-3;
-	type: value; text:box-sizing;
+	type: value; 
 	type: value; text:border-box;
 	type: value; text:content-box;
 spec:css-box-4;
